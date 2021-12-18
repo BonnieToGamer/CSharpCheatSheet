@@ -16,6 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 ----
+If you don't want to install anything you can just open the notebook on github. The only thing that changes is that you can't run the snippets.
+
 What things you need to install the software and how to install them.
 
 First you need the [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension for VS Code and the latest [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
@@ -38,4 +40,4 @@ After running the command you should open the notebook in your preferred languag
 
 ## Usage <a name = "usage"></a>
 
-Open your preferred language currently there is only [swedish](sv.ipynb).
+Open your preferred language. Currently there is only [swedish](sv.ipynb).
